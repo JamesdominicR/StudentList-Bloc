@@ -1,4 +1,4 @@
-# student_list
+# student_list_bloc
 
 A new Flutter project.
 
